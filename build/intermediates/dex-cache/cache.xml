@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\org.apache.http.legacy-9edf47a7b50c95831e837a754c9b571a152efea6.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\picasso-2.3.3-59d37c24dd081bd0840ea0a401e786a099377c79.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\android-support-v4-a893aa90639f97f07e7fbfaf4600360ad9031c6d.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\okhttp-urlconnection-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04f12ec1e1455909e1f0b8530c719c90b2d01745">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.3.0-fab63ad203a7d65989e25a162a5eee561a80e3ca.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\xUtils-2.6.14-4795f2edb88dbace76da326ccd97e754a3f7c925.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\AMap_Location_v2.3.0_20160112-01a80586696c280208526233cc61275e793bc254.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\activation-6b890ebfb37c3e437c6e8e9cd27077f30a66582e.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\AMap_2DMap_V2.8.1_20160202.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0109d970ab16fff07a9a2f22149aecdc1195a4c2">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\AMap_2DMap_V2.8.1_20160202-b2846ef15b7d9f196bcd408d2bd400ca14a438fc.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\Android_Map_V2.7.20151124.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2445bf37f89fbcd046db9bd82891bc9d6cc293ba">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\Android_Map_V2.7.20151124-54a46fbe5523bf7b7abe78773e051ff3673ef3f1.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\mail-f1d38d341e77f18094d345fcbd6c2909b4a37705.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\additionnal-f76abae5622ded52bb48b7ac2d4729de2b62a349.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\gson-2.2.4-046cf5903db925cd66c0fdee782d90b086e1a9a8.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\okhttp-2.2.0-3f7e7ad64c3071816c0f75f5175c546780697b74.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\AMap_Search_V3.2.1_20160308.jar.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\AMap_Search_V3.2.1_20160308.jar-56d71447f569e6dfa5fa534eed5510047f6dfa39.jar" />
+    </item>
+    <item
+        jar="D:\MyAndroidPro\TheFirstLineCode\GPS\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="D:\MyAndroidPro\TheFirstLineCode\GPS\build\intermediates\pre-dexed\debug\okio-1.7.0-ea01f756e34db5c31a93e223a48d110c72ddfd0f.jar" />
+    </item>
+
+</items>
